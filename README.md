@@ -1,6 +1,6 @@
 Simple Diff Utilities
 =====================
-This is a diff utility function to do simple diff for text. Both for client end and server end(node.js).
+This is a simple line diff utility function to do simple diff for text. Both for client end and server end(node.js).
 
 **This project is licensed under BSD/GPL**
 
@@ -8,7 +8,8 @@ How to install
 --------------
 For client end, you just need to download scripts in client/ directory. require that file and use it like normal function.
 
-For server end, you could use npm to install it.
+For server end, you could use npm to install it.  
+```npm install linediff```
 
 How to use
 ----------
@@ -27,7 +28,7 @@ How to use
 
 * require the file
 
-  ```var diff = require('diff');```
+  ```var diff = require('linediff');```
   
 * save as in client end
 

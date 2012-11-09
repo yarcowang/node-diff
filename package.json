@@ -1,7 +1,7 @@
 {
-  "name": "node-diff",
+  "name": "linediff",
   "version": "0.0.1",
-  "description": "simple diff function for both client and server end",
+  "description": "simple line diff function for both client and server end",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
