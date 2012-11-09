@@ -1,0 +1,26 @@
+{
+  "name": "node-diff",
+  "version": "0.0.1",
+  "description": "simple diff function for both client and server end",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+	"devDependencies": {
+		"mocha": "*",
+		"should": "*"
+	},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yarcowang/node-diff.git"
+  },
+  "keywords": [
+    "diff"
+  ],
+  "author": {
+		"name": "Yarco Wang",
+		"email": "yco_w@me.com"
+	},
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
